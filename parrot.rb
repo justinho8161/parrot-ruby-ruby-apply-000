@@ -4,6 +4,6 @@ def parrot(string)
 if string
 return string 
 else
-  return "Squawk!"
+return "Squawk!"
 
 end
